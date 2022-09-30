@@ -1,0 +1,38 @@
+.image1{
+    width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 50%
+}
+.image2{
+    width: 100px;
+  height: 100px;
+  background: blue;
+}
+.image3{
+    width: 200px;
+  height: 100px;
+  background: green;
+}
+
+input{
+    padding: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: blanchedalmond;
+    background-color: black;
+}
+body{
+   
+   
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKyttrpLwy5q1ZqpGGDp2Ir9gALxWrl60tw&usqp=CAU");
+   
+} 
+#c1{
+  margin: 40px;
+  
+}
